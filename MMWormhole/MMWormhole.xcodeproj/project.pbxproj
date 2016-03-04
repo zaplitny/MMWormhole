@@ -16,19 +16,35 @@
 		55030BE01B165D8F005EFC19 /* MMWormholeFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = 55030BD91B165D8F005EFC19 /* MMWormholeFileTransiting.m */; };
 		55030BE11B165D8F005EFC19 /* MMWormholeFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = 55030BD91B165D8F005EFC19 /* MMWormholeFileTransiting.m */; };
 		55AB6EF31BA77D8F003908DC /* MMWormholeSession.h in Headers */ = {isa = PBXBuildFile; fileRef = 55AB6EEA1BA77D8F003908DC /* MMWormholeSession.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		55AB6EF51BA77D8F003908DC /* MMWormholeSession.m in Sources */ = {isa = PBXBuildFile; fileRef = 55AB6EEB1BA77D8F003908DC /* MMWormholeSession.m */; settings = {ASSET_TAGS = (); }; };
+		55AB6EF51BA77D8F003908DC /* MMWormholeSession.m in Sources */ = {isa = PBXBuildFile; fileRef = 55AB6EEB1BA77D8F003908DC /* MMWormholeSession.m */; };
 		55AB6EF71BA77D8F003908DC /* MMWormholeSessionContextTransiting.h in Headers */ = {isa = PBXBuildFile; fileRef = 55AB6EEC1BA77D8F003908DC /* MMWormholeSessionContextTransiting.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		55AB6EF91BA77D8F003908DC /* MMWormholeSessionContextTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = 55AB6EED1BA77D8F003908DC /* MMWormholeSessionContextTransiting.m */; settings = {ASSET_TAGS = (); }; };
+		55AB6EF91BA77D8F003908DC /* MMWormholeSessionContextTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = 55AB6EED1BA77D8F003908DC /* MMWormholeSessionContextTransiting.m */; };
 		55AB6EFB1BA77D8F003908DC /* MMWormholeSessionFileTransiting.h in Headers */ = {isa = PBXBuildFile; fileRef = 55AB6EEE1BA77D8F003908DC /* MMWormholeSessionFileTransiting.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		55AB6EFD1BA77D8F003908DC /* MMWormholeSessionFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = 55AB6EEF1BA77D8F003908DC /* MMWormholeSessionFileTransiting.m */; settings = {ASSET_TAGS = (); }; };
+		55AB6EFD1BA77D8F003908DC /* MMWormholeSessionFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = 55AB6EEF1BA77D8F003908DC /* MMWormholeSessionFileTransiting.m */; };
 		55AB6EFF1BA77D8F003908DC /* MMWormholeSessionMessageTransiting.h in Headers */ = {isa = PBXBuildFile; fileRef = 55AB6EF01BA77D8F003908DC /* MMWormholeSessionMessageTransiting.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		55AB6F011BA77D8F003908DC /* MMWormholeSessionMessageTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = 55AB6EF11BA77D8F003908DC /* MMWormholeSessionMessageTransiting.m */; settings = {ASSET_TAGS = (); }; };
+		55AB6F011BA77D8F003908DC /* MMWormholeSessionMessageTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = 55AB6EF11BA77D8F003908DC /* MMWormholeSessionMessageTransiting.m */; };
 		55AB6F031BA77D8F003908DC /* MMWormholeTransiting.h in Headers */ = {isa = PBXBuildFile; fileRef = 55AB6EF21BA77D8F003908DC /* MMWormholeTransiting.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		55AB6F041BA77D8F003908DC /* MMWormholeTransiting.h in Headers */ = {isa = PBXBuildFile; fileRef = 55AB6EF21BA77D8F003908DC /* MMWormholeTransiting.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9B44A51B1B00572E00C9969A /* MMWormhole.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B44A47F1B0055F500C9969A /* MMWormhole.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9B44A51C1B00572E00C9969A /* MMWormhole.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B44A4801B0055F500C9969A /* MMWormhole.m */; };
 		9B44A51D1B00572E00C9969A /* MMWormhole.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B44A47F1B0055F500C9969A /* MMWormhole.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9B44A51E1B00572E00C9969A /* MMWormhole.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B44A4801B0055F500C9969A /* MMWormhole.m */; };
+		E2A6F15F1C89919B00D27905 /* MMWormhole.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B44A47F1B0055F500C9969A /* MMWormhole.h */; };
+		E2A6F1601C89919B00D27905 /* MMWormholeCoordinatedFileTransiting.h in Headers */ = {isa = PBXBuildFile; fileRef = 55030BD61B165D8F005EFC19 /* MMWormholeCoordinatedFileTransiting.h */; };
+		E2A6F1611C89919B00D27905 /* MMWormholeFileTransiting.h in Headers */ = {isa = PBXBuildFile; fileRef = 55030BD81B165D8F005EFC19 /* MMWormholeFileTransiting.h */; };
+		E2A6F1621C89919B00D27905 /* MMWormholeSession.h in Headers */ = {isa = PBXBuildFile; fileRef = 55AB6EEA1BA77D8F003908DC /* MMWormholeSession.h */; };
+		E2A6F1631C89919B00D27905 /* MMWormholeSessionContextTransiting.h in Headers */ = {isa = PBXBuildFile; fileRef = 55AB6EEC1BA77D8F003908DC /* MMWormholeSessionContextTransiting.h */; };
+		E2A6F1641C89919B00D27905 /* MMWormholeSessionFileTransiting.h in Headers */ = {isa = PBXBuildFile; fileRef = 55AB6EEE1BA77D8F003908DC /* MMWormholeSessionFileTransiting.h */; };
+		E2A6F1651C89919B00D27905 /* MMWormholeSessionMessageTransiting.h in Headers */ = {isa = PBXBuildFile; fileRef = 55AB6EF01BA77D8F003908DC /* MMWormholeSessionMessageTransiting.h */; };
+		E2A6F1661C89919B00D27905 /* MMWormholeTransiting.h in Headers */ = {isa = PBXBuildFile; fileRef = 55AB6EF21BA77D8F003908DC /* MMWormholeTransiting.h */; };
+		E2A6F1671C8991C100D27905 /* MMWormhole.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B44A4801B0055F500C9969A /* MMWormhole.m */; };
+		E2A6F1681C8991C100D27905 /* MMWormholeCoordinatedFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = 55030BD71B165D8F005EFC19 /* MMWormholeCoordinatedFileTransiting.m */; };
+		E2A6F1691C8991C100D27905 /* MMWormholeFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = 55030BD91B165D8F005EFC19 /* MMWormholeFileTransiting.m */; };
+		E2A6F16A1C8991C100D27905 /* MMWormholeSession.m in Sources */ = {isa = PBXBuildFile; fileRef = 55AB6EEB1BA77D8F003908DC /* MMWormholeSession.m */; };
+		E2A6F16B1C8991C100D27905 /* MMWormholeSessionContextTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = 55AB6EED1BA77D8F003908DC /* MMWormholeSessionContextTransiting.m */; };
+		E2A6F16C1C8991C100D27905 /* MMWormholeSessionFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = 55AB6EEF1BA77D8F003908DC /* MMWormholeSessionFileTransiting.m */; };
+		E2A6F16D1C8991C100D27905 /* MMWormholeSessionMessageTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = 55AB6EF11BA77D8F003908DC /* MMWormholeSessionMessageTransiting.m */; };
+		E2A6F16E1C8992D400D27905 /* MMWormholeUmbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E9DBE1641B7DFA7200C9A9B5 /* MMWormholeUmbrella.h */; };
 		E9DBE1651B7DFA7200C9A9B5 /* MMWormholeUmbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E9DBE1641B7DFA7200C9A9B5 /* MMWormholeUmbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E9DBE1661B7DFA7200C9A9B5 /* MMWormholeUmbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E9DBE1641B7DFA7200C9A9B5 /* MMWormholeUmbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
@@ -52,6 +68,7 @@
 		9B44A4801B0055F500C9969A /* MMWormhole.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MMWormhole.m; sourceTree = "<group>"; };
 		9B44A4C61B00570E00C9969A /* MMWormhole.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MMWormhole.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B44A5021B00571F00C9969A /* MMWormhole.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MMWormhole.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E2A6F1571C89916500D27905 /* MMWormhole.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MMWormhole.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9DBE1641B7DFA7200C9A9B5 /* MMWormholeUmbrella.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MMWormholeUmbrella.h; path = MMWormhole/MMWormholeUmbrella.h; sourceTree = SOURCE_ROOT; };
 		E9DBE1671B7DFAD400C9A9B5 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = module.modulemap; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -65,6 +82,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		9B44A4FE1B00571F00C9969A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2A6F1531C89916500D27905 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -87,6 +111,7 @@
 			children = (
 				9B44A4C61B00570E00C9969A /* MMWormhole.framework */,
 				9B44A5021B00571F00C9969A /* MMWormhole.framework */,
+				E2A6F1571C89916500D27905 /* MMWormhole.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -164,6 +189,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		E2A6F1541C89916500D27905 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2A6F1621C89919B00D27905 /* MMWormholeSession.h in Headers */,
+				E2A6F16E1C8992D400D27905 /* MMWormholeUmbrella.h in Headers */,
+				E2A6F1631C89919B00D27905 /* MMWormholeSessionContextTransiting.h in Headers */,
+				E2A6F1601C89919B00D27905 /* MMWormholeCoordinatedFileTransiting.h in Headers */,
+				E2A6F1611C89919B00D27905 /* MMWormholeFileTransiting.h in Headers */,
+				E2A6F1651C89919B00D27905 /* MMWormholeSessionMessageTransiting.h in Headers */,
+				E2A6F1641C89919B00D27905 /* MMWormholeSessionFileTransiting.h in Headers */,
+				E2A6F15F1C89919B00D27905 /* MMWormhole.h in Headers */,
+				E2A6F1661C89919B00D27905 /* MMWormholeTransiting.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
@@ -203,6 +244,24 @@
 			productReference = 9B44A5021B00571F00C9969A /* MMWormhole.framework */;
 			productType = "com.apple.product-type.framework";
 		};
+		E2A6F1561C89916500D27905 /* MMWormhole-WatchOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E2A6F15C1C89916500D27905 /* Build configuration list for PBXNativeTarget "MMWormhole-WatchOS" */;
+			buildPhases = (
+				E2A6F1541C89916500D27905 /* Headers */,
+				E2A6F1521C89916500D27905 /* Sources */,
+				E2A6F1531C89916500D27905 /* Frameworks */,
+				E2A6F1551C89916500D27905 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "MMWormhole-WatchOS";
+			productName = "MMWormhole-WatchOS";
+			productReference = E2A6F1571C89916500D27905 /* MMWormhole.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -217,6 +276,9 @@
 					};
 					9B44A5011B00571F00C9969A = {
 						CreatedOnToolsVersion = 6.4;
+					};
+					E2A6F1561C89916500D27905 = {
+						CreatedOnToolsVersion = 7.2;
 					};
 				};
 			};
@@ -234,6 +296,7 @@
 			targets = (
 				9B44A4C51B00570E00C9969A /* MMWormhole-iOS */,
 				9B44A5011B00571F00C9969A /* MMWormhole-Mac */,
+				E2A6F1561C89916500D27905 /* MMWormhole-WatchOS */,
 			);
 		};
 /* End PBXProject section */
@@ -247,6 +310,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		9B44A5001B00571F00C9969A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2A6F1551C89916500D27905 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -277,6 +347,20 @@
 				55030BDD1B165D8F005EFC19 /* MMWormholeCoordinatedFileTransiting.m in Sources */,
 				55030BE11B165D8F005EFC19 /* MMWormholeFileTransiting.m in Sources */,
 				9B44A51E1B00572E00C9969A /* MMWormhole.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2A6F1521C89916500D27905 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2A6F1671C8991C100D27905 /* MMWormhole.m in Sources */,
+				E2A6F1681C8991C100D27905 /* MMWormholeCoordinatedFileTransiting.m in Sources */,
+				E2A6F1691C8991C100D27905 /* MMWormholeFileTransiting.m in Sources */,
+				E2A6F16A1C8991C100D27905 /* MMWormholeSession.m in Sources */,
+				E2A6F16B1C8991C100D27905 /* MMWormholeSessionContextTransiting.m in Sources */,
+				E2A6F16C1C8991C100D27905 /* MMWormholeSessionFileTransiting.m in Sources */,
+				E2A6F16D1C8991C100D27905 /* MMWormholeSessionMessageTransiting.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -460,6 +544,47 @@
 			};
 			name = Release;
 		};
+		E2A6F15D1C89916500D27905 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "$(SRCROOT)/MMWormhole/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mutualmobile.MMWormhole.MMWormhole-WatchOS";
+				PRODUCT_NAME = MMWormhole;
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.1;
+			};
+			name = Debug;
+		};
+		E2A6F15E1C89916500D27905 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "$(SRCROOT)/MMWormhole/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mutualmobile.MMWormhole.MMWormhole-WatchOS";
+				PRODUCT_NAME = MMWormhole;
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.1;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -489,6 +614,14 @@
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
+		};
+		E2A6F15C1C89916500D27905 /* Build configuration list for PBXNativeTarget "MMWormhole-WatchOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E2A6F15D1C89916500D27905 /* Debug */,
+				E2A6F15E1C89916500D27905 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
